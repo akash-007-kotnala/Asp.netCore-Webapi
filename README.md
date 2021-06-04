@@ -8,7 +8,7 @@ You can perform basic CURD operations.
 
 
 
-Host url = http://akashkotnala-001-site1.etempurl.com
+Host url = http://akashkotnala-001-site1.etempurl.com/api/employees/
 
 
 
